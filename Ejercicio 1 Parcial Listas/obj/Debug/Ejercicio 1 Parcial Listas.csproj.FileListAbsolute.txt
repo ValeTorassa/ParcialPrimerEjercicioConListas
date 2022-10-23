@@ -1,0 +1,8 @@
+C:\Users\° Vale °\OneDrive\Escritorio\Primer ejercicio Parcial con Listas\Ejercicio 1 Parcial Listas\obj\Debug\Ejercicio 1 Parcial Listas.csproj.AssemblyReference.cache
+C:\Users\° Vale °\OneDrive\Escritorio\Primer ejercicio Parcial con Listas\Ejercicio 1 Parcial Listas\obj\Debug\Ejercicio 1 Parcial Listas.csproj.SuggestedBindingRedirects.cache
+C:\Users\° Vale °\OneDrive\Escritorio\Primer ejercicio Parcial con Listas\Ejercicio 1 Parcial Listas\obj\Debug\Ejercicio 1 Parcial Listas.csproj.CoreCompileInputs.cache
+C:\Users\° Vale °\OneDrive\Escritorio\Primer ejercicio Parcial con Listas\Ejercicio 1 Parcial Listas\bin\Debug\Ejercicio 1 Parcial Listas.exe.config
+C:\Users\° Vale °\OneDrive\Escritorio\Primer ejercicio Parcial con Listas\Ejercicio 1 Parcial Listas\bin\Debug\Ejercicio 1 Parcial Listas.exe
+C:\Users\° Vale °\OneDrive\Escritorio\Primer ejercicio Parcial con Listas\Ejercicio 1 Parcial Listas\bin\Debug\Ejercicio 1 Parcial Listas.pdb
+C:\Users\° Vale °\OneDrive\Escritorio\Primer ejercicio Parcial con Listas\Ejercicio 1 Parcial Listas\obj\Debug\Ejercicio 1 Parcial Listas.exe
+C:\Users\° Vale °\OneDrive\Escritorio\Primer ejercicio Parcial con Listas\Ejercicio 1 Parcial Listas\obj\Debug\Ejercicio 1 Parcial Listas.pdb
